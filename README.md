@@ -1,1 +1,9 @@
-# tau-kg-benchmarking-GPT
+# Rationalism in the face of GPT hypes: Benchmarking the output of LLMs against human expert-curated biomedical knowledge graphs
+This repository provides the data and source code for our research regarding the benchmarking the output of LLMs against human expert-curated biomedical disease-specific knowledge graphs
+
+## Relevant data
+The different dataset and KG used in this study are located in data directory. 
+
+## Scripts
+The code directory contains the scripts for querying and analysis of loaded KGs in Neo4j.
+
