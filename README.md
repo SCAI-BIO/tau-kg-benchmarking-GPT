@@ -5,5 +5,5 @@ This repository provides the data and source code for our research regarding the
 The different dataset and KG used in this study are located in data directory. This includes the abstracts as well as full-text documents stored in small chunks. The extracted triples using different tools are stored as an excel file for each abstract and full-text experiment, separately. 
 
 ## Scripts
-The code directory contains the scripts for querying and analysis of loaded KGs in Neo4j.
+The code directory contains the scripts for extractin triples as well as querying and analysis of loaded KGs in Neo4j.
 
