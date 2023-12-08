@@ -1,4 +1,4 @@
-# Rationalism in the face of GPT hypes: Benchmarking the output of LLMs against human expert-curated biomedical knowledge graphs
+# Rationalism in the face of GPT hypes: Benchmarking the output of Large Language Models against human expert-curated biomedical knowledge graphs
 This repository provides the data and source code for our research regarding the benchmarking the output of LLMs against human expert-curated biomedical disease-specific knowledge graphs
 
 ## Relevant data
