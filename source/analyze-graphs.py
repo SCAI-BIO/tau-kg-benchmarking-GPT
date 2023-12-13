@@ -19,7 +19,7 @@ password = "pass"
 driver = GraphDatabase.driver(uri=uri,auth=(user,password))
 driver.verify_connectivity()
 
-#%%
+#%% Extract all graphs and store in networkx instances
 #  GET graph of gpt4
 query = """
 MATCH (n)-[r]->(c)  where r.annotationDatasource = ["gpt4"] RETURN *
